@@ -1,0 +1,3 @@
+include ':voicebroadcast-lib'
+include ':app'
+rootProject.name = "VoiceBroadcastDemo"
